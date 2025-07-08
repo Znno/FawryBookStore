@@ -32,3 +32,9 @@ Books can be managed with the following attributes:
 ## Usage
 
 Create book instances with specific properties and manage their shipping details:
+
+
+## Ensuring that the tests work :-
+
+![image](https://github.com/user-attachments/assets/0337277e-bd47-4b32-b655-ee143b4d61c3)
+
